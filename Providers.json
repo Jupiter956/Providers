@@ -5,14 +5,14 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://yts.am",
+    "base_url": "https://yts.am",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://yts.pm",
-      "https://web.archive.org/web/20201008094850/https://yts.gs",
-      "https://web.archive.org/web/20201008094850/https://www4.yify.is",
-      "https://web.archive.org/web/20201008094850/https://yts.unblocked.vet",
-      "https://web.archive.org/web/20201008094850/https://yts.unblocked.krd",
-      "https://web.archive.org/web/20201008094850/https://ytss.unblocked.is"
+      "https://yts.pm",
+      "https://yts.gs",
+      "https://www4.yify.is",
+      "https://yts.unblocked.vet",
+      "https://yts.unblocked.krd",
+      "https://ytss.unblocked.is"
     ],
     "response_type": "json",
     "trust_results": true,
@@ -41,7 +41,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://torrentapi.org",
+    "base_url": "https://torrentapi.org",
     "fallback_urls": [],
     "response_type": "json",
     "time_to_wait_between_each_request_ms": 300,
@@ -88,15 +88,15 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://zooqle.com",
+    "base_url": "https://zooqle.com",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://zooqle.t0r.club",
-      "https://web.archive.org/web/20201008094850/https://zooqle-com.unblocksites.fun",
-      "https://web.archive.org/web/20201008094850/https://zooqle.unblocked.win",
-      "https://web.archive.org/web/20201008094850/https://zooqle.nocensor.xyz",
-      "https://web.archive.org/web/20201008094850/https://zooqle.unblocked.llc",
-      "https://web.archive.org/web/20201008094850/https://zooqle.unblocked.krd",
-      "https://web.archive.org/web/20201008094850/https://zooqle.p4y.info"
+      "https://zooqle.t0r.club",
+      "https://zooqle-com.unblocksites.fun",
+      "https://zooqle.unblocked.win",
+      "https://zooqle.nocensor.xyz",
+      "https://zooqle.unblocked.llc",
+      "https://zooqle.unblocked.krd",
+      "https://zooqle.p4y.info"
     ],
     "response_type": "text",
     "separator": "+",
@@ -141,7 +141,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://glodls.to",
+    "base_url": "https://glodls.to",
     "fallback_urls": [],
     "response_type": "text",
     "separator": "+",
@@ -181,7 +181,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/http://btscene.today",
+    "base_url": "http://btscene.today",
     "fallback_urls": [],
     "response_type": "text",
     "separator": "+",
@@ -226,9 +226,9 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.magnetdl.com",
+    "base_url": "https://www.magnetdl.com",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://torrentquest.com"
+      "https://torrentquest.com"
     ],
     "response_type": "text",
     "separator": "-",
@@ -266,9 +266,9 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://yourbittorrent.com",
+    "base_url": "https://yourbittorrent.com",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://yourbittorrent2.com"
+      "https://yourbittorrent2.com"
     ],
     "response_type": "text",
     "movie": {
@@ -311,7 +311,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://apibay.org",
+    "base_url": "https://apibay.org",
     "fallback_urls": [],
     "response_type": "json",
     "movie": {
@@ -349,17 +349,17 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://1337x.to",
+    "base_url": "https://1337x.to",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://1337x.st",
-      "https://web.archive.org/web/20201008094850/https://1337x.is",
-      "https://web.archive.org/web/20201008094850/https://1337x.am",
-      "https://web.archive.org/web/20201008094850/https://x1337x.ws",
-      "https://web.archive.org/web/20201008094850/https://x1337x.eu",
-      "https://web.archive.org/web/20201008094850/https://x1337x.se",
-      "https://web.archive.org/web/20201008094850/https://1337x.unblocked.llc",
-      "https://web.archive.org/web/20201008094850/https://1337x.unblocker.cc",
-      "https://web.archive.org/web/20201008094850/https://1337x.unblockall.org"
+      "https://1337x.st",
+      "https://1337x.is",
+      "https://1337x.am",
+      "https://x1337x.ws",
+      "https://x1337x.eu",
+      "https://x1337x.se",
+      "https://1337x.unblocked.llc",
+      "https://1337x.unblocker.cc",
+      "https://1337x.unblockall.org"
     ],
     "response_type": "text",
     "movie": {
@@ -402,7 +402,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.torlock2.com",
+    "base_url": "https://www.torlock2.com",
     "fallback_urls": [],
     "response_type": "text",
     "anime": {
@@ -429,7 +429,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://nyaa.si",
+    "base_url": "https://nyaa.si",
     "fallback_urls": [],
     "response_type": "text",
     "anime": {
@@ -457,10 +457,10 @@
     "languages": [
       "fr"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://ww1.torrent9.is",
+    "base_url": "https://ww1.torrent9.is",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://www.torrent9.uno",
-      "https://web.archive.org/web/20201008094850/https://www.torrent9.to"
+      "https://www.torrent9.uno",
+      "https://www.torrent9.to"
     ],
     "response_type": "text",
     "movie": {
@@ -498,14 +498,14 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://eztv.io",
+    "base_url": "https://eztv.io",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://eztv.re",
-      "https://web.archive.org/web/20201008094850/https://eztv.ag",
-      "https://web.archive.org/web/20201008094850/https://eztv.it",
-      "https://web.archive.org/web/20201008094850/https://eztv.ch",
-      "https://web.archive.org/web/20201008094850/https://eztv.unblocked.llc",
-      "https://web.archive.org/web/20201008094850/https://eztv.unblocker.cc"
+      "https://eztv.re",
+      "https://eztv.ag",
+      "https://eztv.it",
+      "https://eztv.ch",
+      "https://eztv.unblocked.llc",
+      "https://eztv.unblocker.cc"
     ],
     "response_type": "text",
     "episode": {
@@ -538,7 +538,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/http://www.legittorrents.info",
+    "base_url": "http://www.legittorrents.info",
     "response_type": "text",
     "movie": {
       "query": "/index.php?page=torrents&active=1&search={query}&category=1",
@@ -565,9 +565,9 @@
       "in",
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://movcr.tv",
+    "base_url": "https://movcr.tv",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://movcr.cc"
+      "https://movcr.cc"
     ],
     "response_type": "text",
     "movie": {
@@ -608,10 +608,10 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.limetorrents.info",
+    "base_url": "https://www.limetorrents.info",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://www.limetorrents.asia",
-      "https://web.archive.org/web/20201008094850/https://www.limetorrents.zone"
+      "https://www.limetorrents.asia",
+      "https://www.limetorrents.zone"
     ],
     "response_type": "text",
     "separator": "-",
@@ -653,11 +653,11 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://torrentgalaxy.org",
+    "base_url": "https://torrentgalaxy.org",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://torrentgalaxy.to",
-      "https://web.archive.org/web/20201008094850/https://torrentgalaxy.org",
-      "https://web.archive.org/web/20201008094850/https://torrentgalaxy.pw"
+      "https://torrentgalaxy.to",
+      "https://torrentgalaxy.org",
+      "https://torrentgalaxy.pw"
     ],
     "response_type": "text",
     "separator": "+",
@@ -701,7 +701,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://bitlordsearch.com",
+    "base_url": "https://bitlordsearch.com",
     "response_type": "text",
     "movie": {
       "query": "/search?q={query}",
@@ -743,15 +743,15 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://thekat.app",
+    "base_url": "https://thekat.app",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://kat.li",
-      "https://web.archive.org/web/20201008094850/https://thekat.info",
-      "https://web.archive.org/web/20201008094850/https://kickass.cm",
-      "https://web.archive.org/web/20201008094850/https://kat.how",
-      "https://web.archive.org/web/20201008094850/https://kickass.vc",
-      "https://web.archive.org/web/20201008094850/https://kickass2.biz",
-      "https://web.archive.org/web/20201008094850/https://kickass2.st"
+      "https://kat.li",
+      "https://thekat.info",
+      "https://kickass.cm",
+      "https://kat.how",
+      "https://kickass.vc",
+      "https://kickass2.biz",
+      "https://kickass2.st"
     ],
     "response_type": "text",
     "movie": {
@@ -794,7 +794,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.skytorrents.lol",
+    "base_url": "https://www.skytorrents.lol",
     "fallback_urls": [],
     "response_type": "text",
     "separator": "+",
@@ -834,7 +834,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://solidtorrents.net/api/v1/search?q={query}&category=video&sort=seeders",
+    "base_url": "https://solidtorrents.net/api/v1/search?q={query}&category=video&sort=seeders",
     "response_type": "json",
     "movie": {
       "query": "",
@@ -876,10 +876,10 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.torrentdownloads.me",
+    "base_url": "https://www.torrentdownloads.me",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://www.torrentdownloads.info",
-      "https://web.archive.org/web/20201008094850/http://torrentdownloads.d4.re"
+      "https://www.torrentdownloads.info",
+      "http://torrentdownloads.d4.re"
     ],
     "response_type": "text",
     "separator": "+",
@@ -924,7 +924,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.torrentdownload.info",
+    "base_url": "https://www.torrentdownload.info",
     "response_type": "text",
     "separator": "+",
     "source_is_in_sub_page": true,
@@ -968,7 +968,7 @@
     "languages": [
       "ru"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://4h0y.yohoho.cc",
+    "base_url": "https://4h0y.yohoho.cc",
     "response_type": "text",
     "movie": {
       "query": "/?title={query}",
@@ -996,7 +996,7 @@
     "languages": [
       "ru"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/http://rutor.info",
+    "base_url": "http://rutor.info",
     "response_type": "text",
     "movie": {
       "query": "/search/{query}",
@@ -1021,7 +1021,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://extratorrent.ag",
+    "base_url": "https://extratorrent.ag",
     "response_type": "text",
     "movie": {
       "query": "/search/?search={query}&new=1&x=0&y=0",
@@ -1063,7 +1063,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.anirena.com",
+    "base_url": "https://www.anirena.com",
     "response_type": "text",
     "anime": {
       "query": "/index.php?t=2&s={query}",
@@ -1090,7 +1090,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://anidex.info",
+    "base_url": "https://anidex.info",
     "response_type": "text",
     "anime": {
       "query": "/?q={query}",
@@ -1117,7 +1117,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://animetosho.org",
+    "base_url": "https://animetosho.org",
     "response_type": "text",
     "anime": {
       "query": "/search?q={query}",
@@ -1144,9 +1144,9 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://digbt.unblocked.nz",
+    "base_url": "https://digbt.unblocked.nz",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://www.digbt.org"
+      "https://www.digbt.org"
     ],
     "response_type": "text",
     "movie": {
@@ -1189,7 +1189,7 @@
     "languages": [
       "it"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/http://ilcorsaronero.ch",
+    "base_url": "http://ilcorsaronero.ch",
     "fallback_urls": [],
     "response_type": "text",
     "movie": {
@@ -1229,9 +1229,9 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/http://pirateiro.com",
+    "base_url": "http://pirateiro.com",
     "fallback_urls": [
-      "https://web.archive.org/web/20201008094850/https://pirateiro.unblocked.nz"
+      "https://pirateiro.unblocked.nz"
     ],
     "response_type": "text",
     "movie": {
@@ -1269,7 +1269,7 @@
     "languages": [
       "it"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://corsaro.red/api/search",
+    "base_url": "https://corsaro.red/api/search",
     "response_type": "json",
     "http_method": "POST",
     "movie": {
@@ -1316,7 +1316,7 @@
     "languages": [
       "fr"
     ],
-    "base_url": "https://web.archive.org/web/20201008094850/https://www.oxtorrent.com",
+    "base_url": "https://www.oxtorrent.com",
     "fallback_urls": [
     ],
     "response_type": "text",
